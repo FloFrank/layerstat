@@ -1,12 +1,12 @@
 [general]
 name=LayerStat
 qgisMinimumVersion=3.22
-description=Displays layer statistics and adds a tool to the Processing Toolbox.
-version=0.1.0
-author=LayerStat contributors
-email=
-about=LayerStat shows layer details in a dialog and provides a Processing Toolbox algorithm for feature and numeric attribute statistics.
-category=Vector
+description=Displays layer statistics 
+version=1.0
+author=Florian Frank
+email=flo.frank@gmx.at
+github=https://github.com/FloFrank
+about=LayerStats displays the following information for the selected layer: geometry type, projection, feature count, and bounding box. Additionally, the minimum, maximum, arithmetic mean, and median can be displayed for all numerical values of the layer.
 icon=icon_inspector.png
 experimental=False
 deprecated=False

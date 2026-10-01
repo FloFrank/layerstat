@@ -1,4 +1,6 @@
-# Description
+
+
+## Description
 LayerStats is a QGIS plugin that displays statistics for a selected layer in QGIS.
 
 ![QGIS](https://img.shields.io/badge/QGIS-3.x-589632?logo=qgis&logoColor=white)

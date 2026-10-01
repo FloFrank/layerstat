@@ -10,7 +10,7 @@ LayerStats is a QGIS plugin that displays statistics for a selected layer in QGI
 
 ## LayerStat
 
-<p align="left">
+<p align="right">
 	<img src="icon_inspector.png" alt="LayerStat icon" width="128">
 </p>
 

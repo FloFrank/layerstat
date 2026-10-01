@@ -1,0 +1,14 @@
+[general]
+name=LayerStat
+qgisMinimumVersion=3.22
+description=Displays layer statistics and adds a tool to the Processing Toolbox.
+version=0.1.0
+author=LayerStat contributors
+email=
+about=LayerStat shows layer details in a dialog and provides a Processing Toolbox algorithm for feature and numeric attribute statistics.
+category=Vector
+icon=icon_inspector.png
+experimental=False
+deprecated=False
+
+[qgis]

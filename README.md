@@ -1,4 +1,16 @@
-# LayerStat
+# Description
+LayerStats is a QGIS plugin that displays statistics for a selected layer in QGIS.
+
+![QGIS](https://img.shields.io/badge/QGIS-3.x-589632?logo=qgis&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3.9+-3776AB?logo=python&logoColor=white)
+![Plugin](https://img.shields.io/badge/Type-QGIS%20Plugin-93b023)
+[![License](https://img.shields.io/github/license/USER/REPO)](LICENSE)
+[![Release](https://img.shields.io/github/v/release/USER/REPO)](https://github.com/USER/REPO/releases)
+[![Last commit](https://img.shields.io/github/last-commit/USER/REPO)](https://github.com/USER/REPO/commits)
+[![Issues](https://img.shields.io/github/issues/USER/REPO)](https://github.com/USER/REPO/issues)
+[![Stars](https://img.shields.io/github/stars/USER/REPO?style=social)](https://github.com/USER/REPO)
+
+## LayerStat
 
 LayerStats displays the following information for the selected layer: geometry type, projection, feature count, and bounding box. Additionally, the minimum, maximum, arithmetic mean, and median can be displayed for all numerical values of the layer.
 

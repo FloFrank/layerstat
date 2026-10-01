@@ -1,7 +1,6 @@
 # LayerStat
 
-LayerStat is a QGIS plugin that lists the layers in the current project with
-their source, geometry type, and feature count.
+LayerStats displays the following information for the selected layer: geometry type, projection, feature count, and bounding box. Additionally, the minimum, maximum, arithmetic mean, and median can be displayed for all numerical values of the layer.
 
 ## Install
 
